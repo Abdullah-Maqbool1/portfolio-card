@@ -1,4 +1,4 @@
-# 🎨 Cardfolio
+# 🎨 Portfolio-Card
 
 A sleek and modern portfolio card built using HTML & CSS. This stylish component is perfect for showcasing your profile with a clean and responsive design.
 
